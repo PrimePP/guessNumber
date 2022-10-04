@@ -8,4 +8,4 @@ The features of the game are as follows
 
 ---
 
-**Deployed on Netlify** [Click Me]()
+**Deployed on Netlify** [Click Me](https://guessnumberyo.netlify.app/)
